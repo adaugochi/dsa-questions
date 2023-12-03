@@ -1,0 +1,18 @@
+## Question
+
+- [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1/train/javascript)
+- [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f)
+- [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
+- [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
+- [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+- [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
+- [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+- [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
+- [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+- [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+- [Breaking chocolate problem](https://www.codewars.com/kata/534ea96ebb17181947000ada)
+- [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Sort and Transform](https://www.codewars.com/kata/57cc847e58a06b1492000264)
+- [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+- [Unlucky Days](https://www.codewars.com/kata/56eb0be52caf798c630013c0)
+- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
